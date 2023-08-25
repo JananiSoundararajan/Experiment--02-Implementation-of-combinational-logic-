@@ -9,14 +9,21 @@ To implement the given logic function verify its operation in Quartus using Veri
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
   
 ## Equipments Required:
-## Hardware:
+Hardware:
 PCs, Cyclone II , USB flasher
-## Software: 
+
+Software: 
 Quartus prime
 
 
 ## Theory:
- 
+Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
+#### OR Gate:
+The OR gate is a fundamental digital logic gate that operates on two binary inputs, producing an output of 1 if at least one input is 1. It symbolizes logical disjunction and is essential in building logical circuits and decision-making processes in computers and electronics.
+#### AND Gate:
+The AND gate is a fundamental digital logic gate with two inputs and one output. It produces a high output (1) only when both input signals are high (1). If any input is low (0), the output remains low. It's a building block for more complex logic circuits and is integral in digital computations.
+#### NOT Gate:
+The NOT gate is a fundamental digital logic gate. It has a single input and a single output. The output is the inverse of the input: if the input is high (1), the output is low (0), and vice versa. It's a basic building block in digital circuits, used for logic inversion.
 
 ## Procedure:
 
@@ -68,6 +75,7 @@ endmodule
 
 ## Truth table:
 
+![TT2](https://github.com/JananiSoundararajan/Experiment--02-Implementation-of-combinational-logic-/assets/119477549/3446b8ab-e23a-46ee-a719-3c0134749549)
 
 ## Output waveform:
 ![output2](https://github.com/JananiSoundararajan/Experiment--02-Implementation-of-combinational-logic-/assets/119477549/7f1df345-266f-4632-b8c9-872515ba15b1)
