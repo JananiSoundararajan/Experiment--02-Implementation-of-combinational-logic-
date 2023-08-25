@@ -1,5 +1,8 @@
-#### NAME:JANANI.S
-#### REG NO:212222230049
+```
+ NAME:JANANI.S
+ REG NO:212222230049
+```
+
 # Implementation of combinational logic gates
 
  
